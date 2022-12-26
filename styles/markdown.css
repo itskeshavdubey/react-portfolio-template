@@ -32,7 +32,8 @@
 }
 
 .markdown-class p {
-  @apply mt-2 opacity-80 leading-7 font-normal text-base;
+  @apply mt-2 opacity-80 leading-7 font-bold text-base;
+  @apply mt-5 text-xl;
 }
 
 .markdown-class strong {

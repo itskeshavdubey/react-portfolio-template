@@ -489,7 +489,7 @@ const Edit = () => {
           <div className="mt-10">
             <h1 className="text-2xl">About</h1>
             <textarea
-              className="w-full h-96 mt-10 p-2 rounded-md shadow-md border"
+              className="w-full h-96 text-xl mt-10 p-2 rounded-md shadow-md border"
               value={data.aboutpara}
               onChange={(e) => setData({ ...data, aboutpara: e.target.value })}
             ></textarea>

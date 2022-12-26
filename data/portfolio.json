@@ -1,1 +1,105 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Keshav Dubey",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Keshav Dubey - curious",
+  "headerTaglineThree": "designer and devloper",
+  "headerTaglineFour": " based in Greater Noida, India.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/itskeshavdubey"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/keshavdubey2025"
+    },
+    {
+      "id": "3",
+      "title": "Instagram",
+      "link": "https://instagram.com/itskeshavdubey"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:kd479@snu.edu.in"}
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "SNUXPLORE -  A comphrensive guide for the students of Shiv Nadar Institution of Eminence",
+      "description": "Founder & Project Deputy Lead | Web Design",
+      "imageSrc": "https://images.unsplash.com/photo-1672073588226-2c4b9e4e31b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+      "url": "https://snuxplore.com/"
+    },
+    {
+      "id": "2",
+      "title": "Surge - Sport Fest @Shiv Nadar Institute of Eminence",
+      "description": "Web Development & UI/UX Design",
+      "imageSrc": "https://images.unsplash.com/photo-1672074677365-46cd764733ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1866&q=80",
+      "url": "https://surgesnu.in/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "UI/UX Design",
+      "description": "I will build and optimize your online presence.  The website is the digital entry point into your business and a robust revenue channel. Offer user research, prototyping, design, and testing to create intuitive, easy-to-use, and enjoyable user products."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "I will design key brand elements such as the logo, colour scheme, typography, and other design components that make your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Development",
+      "description": "I will help develop the front end for your fully responsive websites. Also, gathering client requirements, creating the structure and layout of the site, developing functionality and features, testing the site, and launching and maintaining the site using different technologies that include HTML, CSS, JavaScript and React Js."
+    }
+  ],
+  "aboutpara": "I am Keshav Dubey, a 19-year-old student at Shiv Nadar University, currently in my second year of a B.tech in Computer Science and Engineering. I am based in Greater Noida and have a wide range of skills, including HTML, CSS, JavaScript, React JS, and Java as Technical Skills; UI/UX design (Figma), and Graphic Design (Adobe Photoshop) as my Design Skills. In addition to my skills, I am also a professional photographer. I have a strong foundation in computer science and engineering and am always looking for new ways to improve my skills and knowledge. I am a dedicated and hardworking individual with a passion for technology and design.",
+  "resume": {
+    "tagline": "👋  I'm a student at Shiv Nadar University, Computer Science & Engineering | UI/UX Designer | Frontend Web Developer",
+    "description": "I have delivered pretty good user experiences to many people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "October 2022 - Present",
+        "type": "Full Time",
+        "position": "Creative Director at E-Summit, Shiv Nadar Institute of Eminence",
+        "bullets": "I have demonstrated strong leadership skills by effectively managing a team of 22 individuals comprising of skilled professionals such as graphic designers ★ UI/UX designers ★ illustrators and content creators.,I was able to guide and support my team as we worked towards common goals and resulting in successful event., I am confident in my ability to lead and collaborate with diverse teams in any project or work setting"
+      },
+      {
+        "id": "2",
+        "dates": "August 2020 - November 2022",
+        "type": "Full Time",
+        "position": "Frontend Web Developer & UI/UX Designer at Surge, Shiv Nadar Institute of Eminence",
+        "bullets": "Worked on designing a fully responsive dynamic Surge Website with wireframing and prototyping.,  Worked on developing the website., Skills: React Js · User Experience Design (UED) · Figma (Software) "
+      },
+      {
+        "id": "3",
+        "dates": "May 2022 - Present",
+        "type": "Full Time",
+        "position": "Founder & Project Deputy Lead at SNUxplore",
+        "bullets": "Current Stats: 40k+ Page views, 3k+ unique users across the globe., A complete comprehensive student guide for Shiv Nadar University with navigation · events · FAQs and admin contacts.,Led a team of 14 people and worked across the web development · design and content teams.,Learnt the basics of marketing · product management and development at the production scale., Skills: Project Management · Leadership · Figma (Software) · React.js "
+      },
+      {
+        "id": "4",
+        "dates": "May 2022 - Aug 2022",
+        "type": "Full Time",
+        "position": "Automation & E-commerce UI/UX Intern at Partsbaba",
+        "bullets": "Worked as an Automation Intern.,Developed Bulk Order Functionality · Chatbot AI, and Automated Emails.,Enabled Google Shopping · Google Ads & Facebook Ads.,Learnt and worked on CRM.,★ Sales: ⇪ May-June - 10L · ⇪ June-July - 15L · ⇪ July-August- 18L ,Sales Increment: 8 Lacs., Skills: Zoho CRM · Zoho · Figma (Software)."
+      }
+    ],
+    "education": {
+      "universityName": "Shiv Nadar Institution of Eminence",
+      "universityDate": "2021-2025",
+      "universityPara": "I am a second year student studying B.Tech in Computer Science at the Shiv Nadar Institution of Eminence. I am passionate about technology and have always been interested in exploring the possibilities that computer science offers. I am excited to be learning from some of the best professors and gaining valuable hands-on experience through my studies. I am confident that the education and skills I am receiving at this prestigious institution will help me to reach my goals and make a meaningful impact in the tech industry."
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Java"],
+    "frameworks": ["React", "NextJs"],
+    "others": ["Figma", "Adobe Photoshop", "Davinci Resolve"]
+  }
+}
